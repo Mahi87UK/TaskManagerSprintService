@@ -5,6 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class TaskManagerServiceApplicationTests {
+	
 	@Test
 	void contextLoads() {
 	}
